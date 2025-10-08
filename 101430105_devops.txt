@@ -1,3 +1,5 @@
 COMP 3105 Devops
     - Teaches the basics of Devops practices
     - Students learn about development operations, git workflow and continous integration
+    -discusses microservices and monoloth architecture
+    -Covers scaling methods like vertical and horizontal scaling
