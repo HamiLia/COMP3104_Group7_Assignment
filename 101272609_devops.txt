@@ -9,3 +9,10 @@ The course emphasizes building and managing deployment pipelines, enabling you t
 By understanding how companies succeed or fail with DevOps strategies, you’ll learn how to ship code safely, apply hot-fixes, detect errors early, and maintain clear communication across teams.
 
 Ultimately, you’ll learn to see the software development lifecycle (SDLC) through the perspective of a DevOps engineer, becoming a more informed and capable developer.
+
+
+Summary
+
+By consistently attending, practicing, and engaging, you’ll naturally build the skills to complete assignments and perform well on exams.
+
+This course lays the foundation for becoming a practical, industry-ready DevOps professional capable of managing real-world deployment pipelines and infrastructure.
