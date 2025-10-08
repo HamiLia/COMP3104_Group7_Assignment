@@ -1,0 +1,3 @@
+COMP 3105 Devops
+    - Teaches the basics of Devops practices
+    - Students learn about development operations, git workflow and continous integration
