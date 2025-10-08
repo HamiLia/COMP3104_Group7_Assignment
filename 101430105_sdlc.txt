@@ -1,0 +1,5 @@
+Importance of Devops
+- Helps connect team members for smoother teamwork
+- makes it easier to build, test and deploy code faster
+- speeds up building, testing, and deployment
+- increases effiecency and productivity in sofware lifecycle
