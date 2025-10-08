@@ -1,0 +1,11 @@
+Course Overview (Why This Course Matters)
+
+COMP3104 (DevOps) is a hands-on course designed to prepare students for careers in the IT industry—especially in fields where servers, web applications, and infrastructure are central to business operations.
+
+You will gain practical experience with key DevOps technologies such as Amazon Web Services (AWS), Ansible, Docker, and Travis CI.
+
+The course emphasizes building and managing deployment pipelines, enabling you to push updates to live web applications efficiently.
+
+By understanding how companies succeed or fail with DevOps strategies, you’ll learn how to ship code safely, apply hot-fixes, detect errors early, and maintain clear communication across teams.
+
+Ultimately, you’ll learn to see the software development lifecycle (SDLC) through the perspective of a DevOps engineer, becoming a more informed and capable developer.
