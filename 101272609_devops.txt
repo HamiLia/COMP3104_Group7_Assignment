@@ -1,4 +1,4 @@
-Course Overview (Why This Course Matters)
+Course Overview 
 
 COMP3104 (DevOps) is a hands-on course designed to prepare students for careers in the IT industry—especially in fields where servers, web applications, and infrastructure are central to business operations.
 
