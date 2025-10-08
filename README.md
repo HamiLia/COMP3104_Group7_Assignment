@@ -5,7 +5,7 @@
 - **Leader:** Soojeong Lim (101503901) - [GitHub](https://github.com/HamiLia)
 - **Member 2:** Jiung Yang (101272609) - [GitHub](https://github.com/fullstackjiung)
 - **Member 3:** John Patrick Buenaventura (101430105) - [GitHub](https://github.com/Pebble-0)
-- **Member 4:** Hanson Bani Khaled (1027890) - [GitHub](https://github.com/)
+- **Member 4:** Hanson Bani Khaled (101401959) - [GitHub](https://github.com/HansonBK)
 
 ## Project Description
 
