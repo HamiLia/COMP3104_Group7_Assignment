@@ -1,0 +1,16 @@
+COMP3104 - DevOps
+
+Course Overview
+This course teaches the procedures, protocols, and best practices that a DevOps engineer brings to a workplave environment to increase productivity.
+Students will analyze and evaluate various developer operation implementations and create solutions to complex business problems by using an industry-standard toolkit.
+
+Evaluation System
+Prassing Grade : D (50%)
+Assessment Breakdown: 
+--Lab exercises 16%
+--Lecture quizzes 8%
+--Group assignment 16%
+--Individual assignment 10%
+--Mid-term exam: 20%
+--Final exam: 30%
+
